@@ -1,0 +1,7 @@
+
+# Project: Sales Analysis
+# Date: 2025-07-29
+# Data collected from various regions.
+ID,Salesperson,Region,Amount
+101,John Doe,North,500
+102,Jane Smith,South,750

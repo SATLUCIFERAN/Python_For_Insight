@@ -1,0 +1,22 @@
+[
+  {
+    "sensor_id": "S001",
+    "location": "North Wing",
+    "timestamp": "2025-07-29T10:00:00Z",
+    "sensor_details": {
+      "temperature_c": 22.5,
+      "humidity": 65,
+      "pressure_hpa": 1012.5
+    }
+  },
+  {
+    "sensor_id": "S002",
+    "location": "South Wing",
+    "timestamp": "2025-07-29T10:05:00Z",
+    "sensor_details": {
+      "temperature_c": 23.1,
+      "humidity": 63,
+      "pressure_hpa": 1011.8
+    }
+  }
+]

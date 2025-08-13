@@ -1,0 +1,9 @@
+user_id,movie_title,genre,rating,watch_duration_minutes,day_of_week,watch_time_hour
+101,The Haunting of Hill House,Horror,8,75,Friday,23
+102,Space Odyssey,Sci-Fi,9,140,Saturday,20
+101,Comedy Central Special,Comedy,7,45,Friday,22
+103,Ancient Aliens,Documentary,6,90,Tuesday,19
+101,The Exorcist,Horror,9,120,Friday,0
+104,Romantic Comedy,Comedy,7,80,Sunday,21
+105,Cosmic Wonders,Documentary,8,60,Monday,18
+101,Spooky Mansion,Horror,7,80,Friday,1

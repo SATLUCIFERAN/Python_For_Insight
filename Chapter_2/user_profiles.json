@@ -1,0 +1,32 @@
+[
+  {
+    "user_id": "U001",
+    "name": "Alice",
+    "age": 30,
+    "interests": [
+      "reading",
+      "hiking"
+    ]
+  },
+  {
+    "user_id": "U002",
+    "name": "Bob",
+    "age": 24,
+    "interests": [
+      "gaming",
+      "coding",
+      "music"
+    ]
+  },
+  {
+    "user_id": "U003",
+    "name": "Charlie",
+    "age": 35,
+    "interests": [
+      "cooking"
+    ]
+  }
+]
+
+
+
